@@ -1,7 +1,11 @@
 # Naringu
 
+THE FUTURE OF MOBILE COMPUTING
 
-Naringu is dark jekyll theme that provide fully furnished jekyll setup, come with contact form, #6DD HTML color schema, and more features. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+The concept of a self-contained, connected and easily portable device has been with us since the dawn of science fiction. When analysts and bloggers look at the future of computing, mobile or otherwise, they often focus on hardware developments. Whether their enthusiasm is justified or not, people get excited about higher resolution screens, front facing cameras and dual-core processors. Researchers and analysts have predicted that by 2025 there will be six devices per human on the planet. If this is true, it  means that we would  expect to see 50 billion more connected devices over the next decade. So, while a proclamation that, “5G phones with 3D cameras will become the norm in 2 – 3 years,” is a prediction that may possibly come true, it is disingenuous to say it without also discussing the software that will emerge to facilitate the trend.
+
+[![future of mobile technology](https://img.youtube.com/vi/FScddkTMlTc/0.jpg)](https://www.youtube.com/watch?v=FScddkTMlTc)
+
 
 ![Naringu](images/screenshot-1.png)
 ![Naringu](images/screenshot-2.png)
