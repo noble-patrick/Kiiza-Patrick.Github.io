@@ -11,8 +11,8 @@ gems: [jekyll-paginate]
 permalink:           pretty
 
 # Setup
-title:               Naringu
-tagline:             'A Hacker like jekyll theme'
+title:               Welcome to Mob Mobile Technology Blog
+tagline:             'The decisions we make now predict the future'
 description:         'oonlab is crafted with <3 by ariestiyansyah.'
 url:              https://github.com/karloespiritu/blackdoc
 baseurl:             /
